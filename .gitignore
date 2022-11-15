@@ -1,0 +1,7 @@
+node_modules
+reports
+screenshots
+videos
+package-lock.json
+.DS_Store
+.idea/
