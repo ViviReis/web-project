@@ -1,8 +1,7 @@
 ## Web Project ##
 
 ### Tests executed ###
-- Create pipe
-- Create card
+- Pipefy QA Interview Form
 
 ### Clone project ###
 ```shel
