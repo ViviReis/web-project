@@ -1,9 +1,8 @@
 ## Web Project ##
 
 ### Tests executed ###
-- Sign up flow
-- Login flow
-- Search flow
+- Create pipe
+- Create card
 
 ### Clone project ###
 ```shel
